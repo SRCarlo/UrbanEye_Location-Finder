@@ -1,8 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
 html, body {
   overflow-x: hidden;
   margin: 0;
   padding: 0;
   width: 100%;
-    font-family: "Audiowide", sans-serif;
+    /* font-family: "Audiowide", sans-serif; */
+    font-family: "Electrolize", sans-serif;
 }

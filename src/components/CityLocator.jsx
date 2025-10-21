@@ -260,7 +260,7 @@ const CityLocator = () => {
         body, html, #root {
           margin: 0;
           height: 100%;
-          font-family: 'Audiowide', cursive, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          font-family: 'Electrolize' sans-serif;
           background: #f7f9fc;
           color: #222;
           display: flex;
@@ -284,7 +284,7 @@ const CityLocator = () => {
           font-weight: bold;
           font-size: 1.4rem;
           color: #0e0e0eff;
-          font-family: 'Audiowide', cursive;
+          font-family:  "Audiowide", sans-serif;
         }
         .search-container {
           position: relative;
@@ -368,7 +368,7 @@ const CityLocator = () => {
           font-size: 1.1rem;
           font-weight: 600;
           color: #2f2d2dff;
-          font-family: 'Audiowide', cursive;
+          font-family: 'Electrolize' sans-serif;
         }
         .city-region {
           font-size: 0.9rem;
@@ -403,7 +403,7 @@ const CityLocator = () => {
           display: flex;
           align-items: center;
           gap: 6px;
-          font-family: 'Audiowide', cursive;
+          font-family:"Audiowide", sans-serif;
           border-radius: 4px;
           transition: background-color 0.2s, color 0.2s;
         }
@@ -433,7 +433,7 @@ const CityLocator = () => {
           margin-bottom: 12px;
           color: #24323cff;
           font-size: 1.4rem;
-          font-family: 'Audiowide', cursive;
+          font-family: 'Electrolize' sans-serif;
         }
         .info-row {
           display: flex;
